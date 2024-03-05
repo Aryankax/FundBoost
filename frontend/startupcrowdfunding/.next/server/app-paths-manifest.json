@@ -1,0 +1,9 @@
+{
+  "/login/investor/page": "app/login/investor/page.js",
+  "/page": "app/page.js",
+  "/invest/page": "app/invest/page.js",
+  "/login/page": "app/login/page.js",
+  "/login/founder/page": "app/login/founder/page.js",
+  "/home/page": "app/home/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
